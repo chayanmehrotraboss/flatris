@@ -11,8 +11,5 @@
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
-<<<<<<< Updated upstream
-=======
 
 This is atest edit by Chayan test now at 2:03 PM 3/16 kjkj
->>>>>>> Stashed changes
